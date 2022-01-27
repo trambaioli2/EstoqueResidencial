@@ -1,0 +1,3 @@
+Rodar o programa a partir do arquivo login.py, que é a interface de login.
+usuario: admin
+senha: admin
